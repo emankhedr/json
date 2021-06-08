@@ -1,0 +1,113 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.2144,
+          33.5211
+        ]
+      },
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "device_id": 6,
+        "device_name": "string",
+        "speed": "33.2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.2244,
+          33.5211
+        ]
+      },
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "device_id": 6,
+        "device_name": "string",
+        "speed": "33.2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.2344,
+          33.5311
+        ]
+      },
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "device_id": 6,
+        "device_name": "string",
+        "speed": "33.2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.2444,
+          33.5511
+        ]
+      },
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "device_id": 6,
+        "device_name": "string",
+        "speed": "33.2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.2744,
+          33.5611
+        ]
+      },
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "device_id": 6,
+        "device_name": "string",
+        "speed": "33.2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.2844,
+          33.5611
+        ]
+      },
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "device_id": 6,
+        "device_name": "string",
+        "speed": "33.2"
+      }
+    }
+  ]
+}
